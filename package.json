@@ -1,0 +1,29 @@
+{
+	"name": "neuron",
+	"version": "1.0.0",
+	"description": "Creating of neural network using javascript",
+	"main": "index.js",
+	"scripts": {
+		"start": "babel-node index.js --presets=env",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pleleu-dev/Neuron.git"
+	},
+	"keywords": [
+		"Neural",
+		"network"
+	],
+	"author": "P.Leleu",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/pleleu-dev/Neuron/issues"
+	},
+	"homepage": "https://github.com/pleleu-dev/Neuron#readme",
+	"dependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"mathjs": "^6.6.0"
+	}
+}
