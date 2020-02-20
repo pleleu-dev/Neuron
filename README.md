@@ -1,2 +1,2 @@
 # Neuron
-creating-of-neural-network-using-javascrip
+Creating of neural network using javascript
